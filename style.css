@@ -1,0 +1,214 @@
+p {
+    color: #000;
+    font-size: 20px;
+    font-family: "Agbalumo", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h1 {
+    text-align: center;
+}
+.baloo {
+    font-family: "Baloo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    color: #01329d;
+    font-size: 55px;
+    line-height: 1.1;
+}
+.lienhe {
+    font-family: "Baloo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 55px;
+    line-height: 1.1;
+}
+h2,h3 {
+    font-family: "Baloo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 30px;
+    color: #01329d;
+    line-height: 1.1;
+}
+.bang {
+    width: 100%;
+    text-align: center;
+    padding-left: 280px;
+}
+.bang img:hover {
+    transform: scale(1.22);
+    transition: 0.8s;
+}
+td {
+    width: 250px;
+}
+.text {
+    font-size: 100px;
+    font-family: "Great Vibes", serif;
+    font-weight: 900;
+    font-style: normal;  
+    text-align: center;
+    color: #000;
+    display: flex;
+    padding-left: 60px;
+    margin: 0;
+}
+#index {
+    margin-top: 60px;
+}
+#sizeindex {
+    font-size: 150px;
+}
+.button {
+    font-family: "Agbalumo", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    gap: 50px;
+    padding-top: 30px;
+    padding-left: 70px;
+    align-items: center;
+    justify-content: left;
+    position: relative;
+}
+.button a {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    border-radius: 30px;
+    padding: 15px 25px;
+    align-items: center;   
+    transition: 0.8s;
+}
+.button a:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 6px #fff;
+}
+#button {
+    font-family: "Playball", serif;
+    font-weight: 450;
+    font-style: normal;
+    align-items: center;
+}
+#button a {
+    font-size: 60px;
+    background-color: #fff;
+    border-radius: 60px;
+    padding: 10px 60px 10px 60px;
+}
+.bgr {
+    background-image: url(image/background.jpg);
+    background-size: cover;
+}
+.button3 {
+    position: fixed;
+    width: 225px;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    background-color: rgb(0, 153, 255);
+    font-family: "Agbalumo", serif;
+    font-weight: 400;
+    font-style: normal;
+    align-items: end;
+    display: flex;
+    color: white;
+    padding-left: 30px;
+}
+.button3 ul {
+    list-style-type: none;
+    padding: 0;
+}
+.button3 ul li {
+    margin: 18px 0;
+}
+.button3 ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 20px;
+    display: flex;
+    border-radius: 30px;
+    transition: 0.8s;
+}
+.button3 ul li a:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px 5px  #fff;
+}
+.avatar {
+    width: 200px; 
+    height: 200px;
+    border-radius: 50%; 
+    border: 4px solid rgb(0, 153, 255);
+}
+header {
+    background-color: rgb(0, 153, 255);
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 25px;
+}
+header img {
+    width: 80%;
+    height: auto;
+}
+.khungtrang {
+    background-color: #f9f9f9;
+    border: 4px solid rgb(0, 153, 255);
+    border-radius: 20px;
+    padding: 40px;
+    width: 92%;
+    text-align: left;
+    margin-top: 10px;
+}
+.trangcon {
+    margin-left: 260px;
+}
+.anhtrang {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding-top: 15px;
+}
+.anhtrang img {
+    max-width: 40%;
+    height: auto;
+    border-radius: 15px;
+}
+.video {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 15px; 
+}
+.link {
+    padding-top: 20px;
+    font-family: "Agbalumo", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.link a{
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    border-radius: 30px;
+    padding: 15px 25px;
+    align-items: center;
+   
+    transition: 0.8s;
+    background-color: rgb(0, 153, 255);
+}
+.link a:hover {
+    transform: scale(1.1);
+}
+
